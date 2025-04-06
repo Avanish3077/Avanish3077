@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Avanish
 
-🎓 Final Year IT Student | 💻 Java & Web Dev Enthusiast | 📊 SSC CGL Aspirant  
+🎓 Final Year IT Student | 💻 Java & Web Dev Enthusiast |  
 🚀 Passionate about learning, building cool projects, and growing every day.
 
 ---
